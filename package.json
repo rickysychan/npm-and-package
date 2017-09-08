@@ -1,0 +1,22 @@
+{
+  "name": "npm-and-package",
+  "version": "1.0.0",
+  "description": "exercise 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rizelmine17/npm-and-package.git"
+  },
+  "author": "Ricky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizelmine17/npm-and-package/issues"
+  },
+  "homepage": "https://github.com/rizelmine17/npm-and-package#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
